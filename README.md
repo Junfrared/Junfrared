@@ -21,7 +21,9 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/bash.png"/> </a> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/powershell.png"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/offices/40/000000/regex.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/nolan/64/vb.png"/> </a>    
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/magento.png"/> </a>   
