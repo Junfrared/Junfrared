@@ -78,8 +78,8 @@
 
 </p>
 -->
-❤ Views and Followers
+## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=google">
+    <img src="https://komarev.com/ghpvc/?username=Junfrared">
 </a>
-<a href="https://github.com/google?tab=followers"><img src="https://img.shields.io/github/followers/Junfrared?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Junfrared?tab=followers"><img src="https://img.shields.io/github/followers/Junfrared?label=Followers&style=social" alt="GitHub Badge"></a>
